@@ -20,4 +20,4 @@ Code
 Deploy
 ======
 
-Every smart contract in NEAR has its [own associated account][NEAR accounts]. Run `yarn dev` deploy your smart contract to the live NEAR TestNet.
+Every smart contract in NEAR has its own associated account NEAR accounts. Run `yarn dev` deploy your smart contract to the live NEAR TestNet.
