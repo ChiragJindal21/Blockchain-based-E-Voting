@@ -1,7 +1,7 @@
 Blockchain based E-voting
 ==================
 
-This [React] app was initialized with [create-near-app]
+This React app was initialized with [create-near-app]
 
 To run this project locally:
 
